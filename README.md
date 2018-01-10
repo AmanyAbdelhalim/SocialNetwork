@@ -1,6 +1,6 @@
 # Social Network
 # Mini Project
-# This is one of the mini projects that I prepared  for my  students in a Database Course that I was teaching
+# This is one of the mini projects that I prepared  for my  students in a Database Course 
 Assume you are creating a database for a social network (e.g. Facebook). You are required to create tables that keep the following data for members of the social network. You need to keep data such as their name, date of birth, gender, marital status, hobbies, languages they speak, occupation. Make sure that each member can have more than one hobby and can speak more than one language.
 You are required to keep track of which members are recommended to be friends with other members and which members are friends with other members.
 Members will be able to post on the social network some pictures and write a description under each picture, the time and date of the posts should be saved. Friends will be able to write comments on their friend’s pictures and those comments will be saved in the database.
